@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#EAEAF4"/>
+  <circle cx="190" cy="600" r="300" fill="#DDDEEF"/><circle cx="1070" cy="150" r="230" fill="#E1E2F0"/>
+  <rect x="350" y="68" width="500" height="624" rx="34" fill="#FAFAFC"/>
+  <rect x="373" y="95" width="454" height="570" rx="20" fill="#F4F4F8"/>
+  <rect x="539" y="111" width="118" height="8" rx="4" fill="#D8D8E2"/>
+  <text x="412" y="184" fill="#313344" font-family="Arial, sans-serif" font-size="24" font-weight="600">A little, often.</text>
+  <text x="412" y="214" fill="#858697" font-family="Arial, sans-serif" font-size="14">Your week, at your own pace.</text>
+  <rect x="412" y="249" width="376" height="177" rx="13" fill="#ECECF5"/>
+  <text x="438" y="287" fill="#55566C" font-family="Arial, sans-serif" font-size="14" font-weight="600">THIS WEEK</text>
+  <circle cx="462" cy="337" r="21" fill="#D8D9EC"/><circle cx="515" cy="337" r="21" fill="#CACCE6"/><circle cx="568" cy="337" r="21" fill="#D8D9EC"/><circle cx="621" cy="337" r="21" fill="#AEB1D5"/><circle cx="674" cy="337" r="21" fill="#D8D9EC"/><circle cx="727" cy="337" r="21" fill="#D8D9EC"/>
+  <text x="451" y="394" fill="#828397" font-family="Arial, sans-serif" font-size="12">M</text><text x="504" y="394" fill="#828397" font-family="Arial, sans-serif" font-size="12">T</text><text x="557" y="394" fill="#828397" font-family="Arial, sans-serif" font-size="12">W</text><text x="610" y="394" fill="#828397" font-family="Arial, sans-serif" font-size="12">T</text><text x="663" y="394" fill="#828397" font-family="Arial, sans-serif" font-size="12">F</text><text x="716" y="394" fill="#828397" font-family="Arial, sans-serif" font-size="12">S</text>
+  <text x="412" y="475" fill="#55566C" font-family="Arial, sans-serif" font-size="14" font-weight="600">YOUR ROUTINES</text>
+  <rect x="412" y="495" width="376" height="52" rx="10" fill="#FFFFFF"/><circle cx="440" cy="521" r="10" fill="#B5C5A2"/><path d="m435 521 4 4 7-8" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><rect x="463" y="516" width="138" height="9" rx="4" fill="#A5A6B2"/>
+  <rect x="412" y="560" width="376" height="52" rx="10" fill="#FFFFFF"/><circle cx="440" cy="586" r="10" fill="#D3D4E6"/><rect x="463" y="581" width="176" height="9" rx="4" fill="#C2C2CD"/>
+  <rect x="412" y="625" width="376" height="1" fill="#E0E0E9"/>
+</svg>

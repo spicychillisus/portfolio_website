@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#E9EDDF"/>
+  <circle cx="1050" cy="130" r="260" fill="#D7E1C4"/>
+  <rect x="92" y="77" width="1016" height="606" rx="18" fill="#FAFBF7"/>
+  <rect x="92" y="77" width="1016" height="54" rx="18" fill="#F1F3EC"/>
+  <circle cx="123" cy="104" r="6" fill="#C9D0C4"/><circle cx="145" cy="104" r="6" fill="#C9D0C4"/><circle cx="167" cy="104" r="6" fill="#C9D0C4"/>
+  <rect x="133" y="168" width="204" height="471" rx="9" fill="#F4F6F0"/>
+  <rect x="160" y="197" width="97" height="10" rx="5" fill="#68716B"/>
+  <rect x="160" y="239" width="150" height="34" rx="7" fill="#E4E9DB"/><rect x="174" y="251" width="77" height="8" rx="4" fill="#506444"/>
+  <rect x="160" y="289" width="119" height="9" rx="4.5" fill="#C3CBC0"/><rect x="160" y="319" width="129" height="9" rx="4.5" fill="#C3CBC0"/>
+  <text x="381" y="208" fill="#29312C" font-family="Arial, sans-serif" font-size="28" font-weight="600">Good morning, Alex</text>
+  <text x="381" y="244" fill="#788179" font-family="Arial, sans-serif" font-size="15">Here’s your week at a glance.</text>
+  <rect x="381" y="280" width="674" height="150" rx="12" fill="#F5F7F1"/>
+  <text x="410" y="320" fill="#4A554B" font-family="Arial, sans-serif" font-size="15" font-weight="600">THIS WEEK</text>
+  <rect x="410" y="346" width="72" height="53" rx="7" fill="#D9E6C7"/><rect x="493" y="346" width="72" height="53" rx="7" fill="#E9ECE4"/><rect x="576" y="346" width="72" height="53" rx="7" fill="#D9E6C7"/><rect x="659" y="346" width="72" height="53" rx="7" fill="#E9ECE4"/><rect x="742" y="346" width="72" height="53" rx="7" fill="#D9E6C7"/>
+  <rect x="381" y="451" width="322" height="196" rx="12" fill="#F5F7F1"/><rect x="724" y="451" width="331" height="196" rx="12" fill="#EEF1E8"/>
+  <text x="409" y="490" fill="#4A554B" font-family="Arial, sans-serif" font-size="15" font-weight="600">PRIORITIES</text>
+  <circle cx="419" cy="525" r="7" fill="#78915F"/><rect x="439" y="520" width="187" height="9" rx="4" fill="#8D978B"/>
+  <circle cx="419" cy="555" r="7" fill="#B6C59D"/><rect x="439" y="550" width="152" height="9" rx="4" fill="#B4BDB2"/>
+  <circle cx="419" cy="585" r="7" fill="#D1D9C6"/><rect x="439" y="580" width="205" height="9" rx="4" fill="#B4BDB2"/>
+  <text x="755" y="490" fill="#4A554B" font-family="Arial, sans-serif" font-size="15" font-weight="600">TEAM MOMENTUM</text>
+  <path d="M766 600C803 569 824 583 853 551C883 520 900 550 930 515C954 487 983 510 1013 482" stroke="#7C9564" stroke-width="5" stroke-linecap="round"/>
+</svg>

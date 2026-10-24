@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#F0EAE1"/>
+  <rect x="86" y="73" width="1028" height="614" rx="16" fill="#FCFAF6"/>
+  <rect x="86" y="73" width="1028" height="58" rx="16" fill="#F5F1EA"/>
+  <circle cx="120" cy="102" r="6" fill="#D3C9BA"/><circle cx="142" cy="102" r="6" fill="#D3C9BA"/><circle cx="164" cy="102" r="6" fill="#D3C9BA"/>
+  <text x="140" y="183" fill="#4D4439" font-family="Georgia, serif" font-size="28" font-weight="600">form &amp; field</text>
+  <text x="789" y="179" fill="#81786D" font-family="Arial, sans-serif" font-size="13">Objects with a story</text><text x="973" y="179" fill="#81786D" font-family="Arial, sans-serif" font-size="13">Shop</text><text x="1040" y="179" fill="#81786D" font-family="Arial, sans-serif" font-size="13">Bag (0)</text>
+  <rect x="140" y="218" width="920" height="401" rx="5" fill="#E7DED1"/>
+  <rect x="641" y="218" width="419" height="401" rx="5" fill="#E9E0D4"/>
+  <rect x="664" y="241" width="373" height="355" rx="4" fill="#DCD0BE"/>
+  <ellipse cx="853" cy="543" rx="112" ry="17" fill="#C5B7A3"/>
+  <path d="M777 385C777 356 800 333 829 333H881C910 333 933 356 933 385V521H777V385Z" fill="#F7F4EC"/>
+  <path d="M811 334C811 313 828 296 849 296H861C882 296 899 313 899 334" stroke="#F7F4EC" stroke-width="15"/>
+  <path d="M792 405H918" stroke="#D8CDBB" stroke-width="4"/><path d="M792 433H918" stroke="#D8CDBB" stroke-width="4"/><path d="M792 461H918" stroke="#D8CDBB" stroke-width="4"/>
+  <rect x="178" y="273" width="183" height="17" rx="8" fill="#B1A38D"/><rect x="178" y="310" width="354" height="10" rx="5" fill="#C8BBA8"/><rect x="178" y="336" width="318" height="10" rx="5" fill="#C8BBA8"/>
+  <rect x="178" y="389" width="147" height="44" rx="3" fill="#655B4E"/><text x="203" y="417" fill="#FAF8F3" font-family="Arial, sans-serif" font-size="13" font-weight="600">Discover the edit</text>
+  <text x="178" y="540" fill="#6D6254" font-family="Georgia, serif" font-size="19">Made slowly. Used daily.</text>
+</svg>

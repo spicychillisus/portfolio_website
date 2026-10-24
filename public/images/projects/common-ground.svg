@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <rect width="1200" height="760" fill="#E7EFE9"/>
+  <path d="M0 538C206 479 337 579 529 524C721 469 902 478 1200 389V760H0V538Z" fill="#D6E3D8"/>
+  <rect x="87" y="70" width="1026" height="620" rx="17" fill="#FCFDFB"/>
+  <rect x="87" y="70" width="1026" height="57" rx="17" fill="#F2F6F1"/>
+  <circle cx="120" cy="99" r="6" fill="#C5D1C7"/><circle cx="142" cy="99" r="6" fill="#C5D1C7"/><circle cx="164" cy="99" r="6" fill="#C5D1C7"/>
+  <text x="140" y="181" fill="#29372E" font-family="Arial, sans-serif" font-size="27" font-weight="600">Find your growing space</text>
+  <text x="140" y="212" fill="#718076" font-family="Arial, sans-serif" font-size="15">Good things grow better together.</text>
+  <rect x="140" y="243" width="410" height="54" rx="9" fill="#F1F5F0"/><circle cx="169" cy="270" r="9" stroke="#718076" stroke-width="2"/><path d="m176 277 8 8" stroke="#718076" stroke-width="2" stroke-linecap="round"/><text x="198" y="276" fill="#939E95" font-family="Arial, sans-serif" font-size="14">Neighborhood or ZIP code</text>
+  <rect x="140" y="318" width="425" height="314" rx="11" fill="#F6F8F5"/>
+  <rect x="161" y="341" width="381" height="124" rx="8" fill="#E4EDE3"/><path d="M163 429C245 384 298 450 371 407C424 375 471 407 541 368V464H163V429Z" fill="#CEDDCF"/>
+  <path d="M207 381c16-27 38-27 54 0M389 411c17-27 40-27 56 0" stroke="#839C7B" stroke-width="5" stroke-linecap="round"/><circle cx="236" cy="381" r="7" fill="#77926C"/><circle cx="418" cy="411" r="7" fill="#77926C"/>
+  <rect x="162" y="487" width="13" height="13" rx="4" fill="#9EB795"/><rect x="187" y="489" width="164" height="9" rx="4" fill="#929F93"/>
+  <rect x="162" y="524" width="13" height="13" rx="4" fill="#C3D1BA"/><rect x="187" y="526" width="205" height="9" rx="4" fill="#B0BAB1"/>
+  <rect x="162" y="561" width="13" height="13" rx="4" fill="#D4DFCC"/><rect x="187" y="563" width="133" height="9" rx="4" fill="#B0BAB1"/>
+  <rect x="585" y="243" width="485" height="389" rx="11" fill="#EFF4ED"/>
+  <path d="M585 389C679 336 740 418 816 360C892 303 947 368 1070 289V632H585V389Z" fill="#DBE8D9"/>
+  <path d="M585 457C685 395 751 474 846 421C937 371 1011 421 1070 387V632H585V457Z" fill="#C9DDC8"/>
+  <path d="M706 361c13-22 31-22 44 0M903 326c13-22 31-22 44 0M946 454c13-22 31-22 44 0" stroke="#789273" stroke-width="5" stroke-linecap="round"/><circle cx="728" cy="361" r="7" fill="#6F8D68"/><circle cx="925" cy="326" r="7" fill="#6F8D68"/><circle cx="968" cy="454" r="7" fill="#6F8D68"/>
+  <rect x="677" y="507" width="288" height="74" rx="9" fill="#FCFDFB"/><text x="700" y="538" fill="#35443A" font-family="Arial, sans-serif" font-size="14" font-weight="600">Maple Street Community Garden</text><text x="700" y="562" fill="#829087" font-family="Arial, sans-serif" font-size="12">0.8 miles · Open to neighbors</text>
+</svg>
