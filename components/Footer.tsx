@@ -1,4 +1,5 @@
 import Link from "next/link";
+import devName from "@/data/name";
 
 export default function Footer() {
   return (
@@ -18,9 +19,9 @@ export default function Footer() {
         <div className="footer-bottomline">
           <Link className="wordmark footer-wordmark" href="/">
             <span className="wordmark-mark" aria-hidden="true">YN</span>
-            <span>Your Name</span>
+            <span>{devName}</span>
           </Link>
-          <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} {devName}. All rights reserved.</p>
           <a className="back-to-top" href="#top">Back to top ↑</a>
         </div>
         <p className="footer-placeholder">Placeholder links and contact details: update before publishing.</p>
