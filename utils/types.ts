@@ -16,6 +16,7 @@ export interface Project {
   githubUrl?: string;
   liveUrl?: string;
   featured: boolean;
+  project_link?: string;
 }
 
 export interface LayoutProps {
