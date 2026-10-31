@@ -11,8 +11,7 @@ export default function Navbar() {
         </Link>
         <div className="nav-actions">
           <Link className="nav-link" href="/projects">Projects</Link>
-          <a className="nav-link nav-contact" href="mailto:your.email@example.com">Contact</a>
-          <ThemeToggle />
+          <Link className="nav-link" href="/contactPage">Contact</Link>          <ThemeToggle />
         </div>
       </nav>
     </header>
