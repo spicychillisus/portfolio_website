@@ -1,5 +1,5 @@
 import Link from "next/link";
-import devName from "@/data/socials";
+import { devName } from "@/data/socials";
 
 export default function Footer() {
   return (

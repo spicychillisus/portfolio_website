@@ -9,7 +9,7 @@ import {
 } from "libphonenumber-js/max";
 import examples from "libphonenumber-js/mobile/examples";
 import Layout from "@/components/Layout";
-import devName from "@/data/socials";
+import { devName } from "@/data/socials";
 
 type Enquiry = "" | "main-page" | "projects";
 
