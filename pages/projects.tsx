@@ -2,15 +2,17 @@ import Head from "next/head";
 import Layout from "@/components/Layout";
 import ProjectCard from "@/components/ProjectCard";
 import { projects } from "@/data/projects";
+import devName from "@/data/socials";
+import Link from "next/link";
 
 export default function Projects() {
   return (
     <Layout>
       <Head>
-        <title>Projects | Your Name</title>
+        <title>Projects | {devName}</title>
         <meta
           name="description"
-          content="Selected software and product design projects by Your Name."
+          content={`Selected software and product design projects by ${devName}.`}
         />
       </Head>
       <section className="page-intro content-width" aria-labelledby="projects-heading">
@@ -24,7 +26,11 @@ export default function Projects() {
       <section className="section all-projects-section content-width" aria-label="All projects">
         <div className="project-grid all-projects-grid">
           {projects.map((project) => (
-            <ProjectCard key={project.id} project={project} />
+            <>
+            <Link key={project.id} href={project.project_link ?? "#"} aria-label={`${project.title} project page`}>
+              <ProjectCard key={project.id} project={project} />            
+            </Link>
+            </>
           ))}
         </div>
       </section>

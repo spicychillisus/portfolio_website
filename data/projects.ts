@@ -1,6 +1,9 @@
 import type { Project } from "@/utils/types";
 
 // Replace these sample projects and their artwork with your own work.
+/**
+ * modify this file to add your own projects. 
+ */
 export const projects: Project[] = [
   {
     id: "northstar",
@@ -10,6 +13,7 @@ export const projects: Project[] = [
     thumbnail: "/images/projects/northstar.svg",
     languages: ["Next.js", "TypeScript", "Tailwind CSS"],
     featured: true,
+    project_link: "https://github.com/spicychillisus/portfolio_website"
   },
   {
     id: "common-ground",
